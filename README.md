@@ -35,7 +35,7 @@ json convert multiple lines to single line.
          |_____ timeline.json
 ```
 
-> ### 4. To make modification, edit `json.py` file and run compiler again. 
+> ### 4. To make modification, run compiler after editing. 
 
 
 
