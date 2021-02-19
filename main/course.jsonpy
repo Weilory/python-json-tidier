@@ -1,0 +1,63 @@
+{
+	"English A": {
+		"teachers": [
+			"Christopher Douglas",
+			"Josef Dabbs",
+			"Kim Rennie",
+			"Peter Gyulay",
+			"Sarah Hansen",
+			"Shannon Hutchinson",
+			"Jennie Masia",
+			"Freda Pappas",
+			"Collin Chan",
+		],
+		"img": "english.jpeg",
+	}, 
+	"Mathematics for Science A": {
+		"teachers": [
+			"Angela Xu",
+			"Barry Zhang",
+			"Claudia Sandler",
+			"Collin Baker",
+			"Daniel Guo",
+			"Derek Buchanan",
+			"Ebrahim Goolam",
+			"Mona Peters",
+			"Peter Molloy",
+		], 
+		"img": "math.jpeg",
+	}, 
+	"Physics A": {
+		"teachers": [
+			"Eric Baker",
+			"Ian Copper",
+			"Ross Flanagan",
+			"Wenting Ma", 
+		],
+		"img": "physics.jpg"
+	},
+	"Information Technology A": {
+		"teachers": [
+			"Millan Lasic",
+			"Robert Morten",
+			"Tim",
+			"Phil",
+		],
+		"img": "it.jpg",
+	},
+	"Economics A (Micro)": {
+		"teachers": [
+			"Jiawei Zhu",
+			"Mark Crotty",
+			"Michael Kornhaber",
+			"Michael O'Neill",
+			"Phillip Klinger",
+			"Ros Saunders",
+			"Sock Hong Tan",
+			"Sonu Sarda",
+			"Susanna Skien",
+			"Vince McPherson",
+		], 
+		"img": "economics.jpg",
+	}
+}
